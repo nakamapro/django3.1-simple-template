@@ -1,7 +1,7 @@
 # django3.1.1-simple-template
 Django 3.1.1 simple website template
 
-## Install requirements
+## Install requirements (need Python 3.7)
 ```
 python -m venv env
 ```
